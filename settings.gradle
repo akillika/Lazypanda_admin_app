@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Lazypanda_admin_app"
